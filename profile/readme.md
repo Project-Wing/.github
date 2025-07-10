@@ -1,4 +1,4 @@
-# Project-Wing: Dedicated to The Dissemination of Traditional Music & Art Culture: 致力于普及古风音乐与艺术
+# Project-Wing: Dedicated to The Dissemination of Music & Art Culture: 致力于普及音乐与艺术
 
     People always grow into a new self,
     
