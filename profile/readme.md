@@ -7,7 +7,10 @@
           just don't forget to love yourself.
         
             ————Wing, a child with sharp edges forever. (Singer & Musician)
-
+![Workflow Status](https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE.yml/badge.svg)!
+[Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)!
+[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)!
+[EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white)
 ## 简介
 欢迎来到司南Wiki！
 
