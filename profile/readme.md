@@ -1,4 +1,4 @@
-# Project-Wing: 基于标准化系统的司南Wiki
+# Project-Wing: 基于现代web技术开发的歌手Wiki网站模板框架
 
     People always grow into a new self,
     
@@ -9,9 +9,9 @@
             ————Wing, a child with sharp edges forever. (Singer & Musician)
 
 ## 简介
-欢迎来到司南Wiki！
+欢迎来到Project-Wing
 
-Wing是司南Wiki使用的标准化系统，支持零代码（除了运行服务器必须的配置文件和命令）和跨平台（Linux与Windows Server）配置部署，为你喜欢的任何歌手制作Wiki网站。
+Wing是一个标准化Wiki系统模板框架，支持零代码（除了运行服务器必须的配置文件和命令）和跨平台（Linux与Windows Server）配置部署，为你喜欢的任何歌手制作Wiki网站。
 
 Wing的名字来源于[司南](https://baike.baidu.com/item/%E5%8F%B8%E5%8D%97/57924304)，但Wing可以不与任何具体角色绑定，您可以任意定制修改为任何歌手甚至是你的朋友，爱人或者你自己（如果你愿意）的Wiki。在仓库的示例配置文件中，Wing将被默认配置为司南Wiki，这也是我们目前运营的网站。
 ## 项目特点
